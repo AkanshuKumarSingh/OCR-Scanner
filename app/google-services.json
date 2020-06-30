@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "110618386254",
+    "firebase_url": "https://ocr-scanner-2aea1.firebaseio.com",
+    "project_id": "ocr-scanner-2aea1",
+    "storage_bucket": "ocr-scanner-2aea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110618386254:android:8493e0ad5d4facdb92081f",
+        "android_client_info": {
+          "package_name": "com.aks.ocrscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110618386254-pdlk6outi46jq8mqhjnac1l1a8tenbcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPSdRgT2QtoR9ALatC6Jvz2KMMxu7DXEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110618386254-pdlk6outi46jq8mqhjnac1l1a8tenbcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
